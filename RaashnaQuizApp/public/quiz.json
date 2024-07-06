@@ -1,0 +1,167 @@
+[
+    {
+        "id": "01",
+        "question": "What is the time complexity of finding an element in a balanced binary search tree?",
+        "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+        ],
+        "answer": "O(log n)"
+    },
+    {
+        "id": "02",
+        "question": "Which of the following data structures uses LIFO (Last In, First Out) principle?",
+        "options": [
+            "Queue",
+            "Heap",
+            "Stack",
+            "Linked List"
+        ],
+        "answer": "Stack"
+    },
+    {
+        "id": "03",
+        "question": "What is the worst-case time complexity of quicksort algorithm?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "O(n log n)"
+        ],
+        "answer": "O(n^2)"
+    },
+    {
+        "id": "04",
+        "question": "Which data structure is typically used for implementing priority queues?",
+        "options": [
+            "Binary Search Tree",
+            "Hash Table",
+            "Heap",
+            "Linked List"
+        ],
+        "answer": "Heap"
+    },
+    {
+        "id": "05",
+        "question": "What is the purpose of dynamic programming in algorithms?",
+        "options": [
+            "To solve problems by combining solutions to subproblems",
+            "To divide problems into multiple threads",
+            "To optimize database queries",
+            "To manage process execution"
+        ],
+        "answer": "To solve problems by combining solutions to subproblems"
+    },
+    {
+        "id": "06",
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "options": [
+            "Bubble Sort",
+            "Merge Sort",
+            "Insertion Sort",
+            "Selection Sort"
+        ],
+        "answer": "Merge Sort"
+    },
+    {
+        "id": "07",
+        "question": "What is the purpose of a hash table in data structures?",
+        "options": [
+            "To manage process execution",
+            "To optimize network performance",
+            "To store key-value pairs with efficient insertion and retrieval",
+            "To control memory allocation"
+        ],
+        "answer": "To store key-value pairs with efficient insertion and retrieval"
+    },
+    {
+        "id": "08",
+        "question": "In graph theory, what is a cycle?",
+        "options": [
+            "A path between two nodes",
+            "A connected component",
+            "A closed path where a node is visited more than once",
+            "A tree structure"
+        ],
+        "answer": "A closed path where a node is visited more than once"
+    },
+    {
+        "id": "09",
+        "question": "What is the worst-case time complexity of binary search on a sorted array?",
+        "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+        ],
+        "answer": "O(log n)"
+    },
+    {
+        "id": "10",
+        "question": "What is the purpose of Dijkstra's algorithm?",
+        "options": [
+            "To find the shortest path in a weighted graph",
+            "To generate prime numbers",
+            "To compress data",
+            "To handle database transactions"
+        ],
+        "answer": "To find the shortest path in a weighted graph"
+    },
+    {
+        "id": "11",
+        "question": "Which data structure is suitable for implementing a hash map?",
+        "options": [
+            "Heap",
+            "Queue",
+            "Binary Search Tree",
+            "Array"
+        ],
+        "answer": "Array"
+    },
+    {
+        "id": "12",
+        "question": "What is the purpose of the Floyd-Warshall algorithm?",
+        "options": [
+            "To find the longest increasing subsequence in an array",
+            "To detect cycles in a graph",
+            "To solve the all-pairs shortest path problem",
+            "To manage process scheduling"
+        ],
+        "answer": "To solve the all-pairs shortest path problem"
+    },
+    {
+        "id": "13",
+        "question": "What is the worst-case time complexity of the selection sort algorithm?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "O(n log n)"
+        ],
+        "answer": "O(n^2)"
+    },
+    {
+        "id": "14",
+        "question": "Which data structure is used in Depth-First Search (DFS) algorithm?",
+        "options": [
+            "Queue",
+            "Heap",
+            "Stack",
+            "Linked List"
+        ],
+        "answer": "Stack"
+    },
+    {
+        "id": "15",
+        "question": "What is the purpose of the Bellman-Ford algorithm?",
+        "options": [
+            "To find the maximum flow in a network",
+            "To balance binary search trees",
+            "To compute the shortest paths from a single source vertex to all other vertices in a weighted graph",
+            "To manage memory allocation"
+        ],
+        "answer": "To compute the shortest paths from a single source vertex to all other vertices in a weighted graph"
+    }
+]
